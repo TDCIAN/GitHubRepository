@@ -5,4 +5,8 @@
 //  Created by JeongminKim on 2021/12/13.
 //
 
-import Foundation
+import UIKit
+
+class RepositoryListViewController: UITableViewController {
+    
+}
